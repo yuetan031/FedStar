@@ -38,11 +38,10 @@ The default values for various paramters parsed to the experiment are given in `
 ## Citation
 If you find this project helpful, please consider to cite the following paper:
 ```
-@inproceedings{
-tan2023federated,
-title={Federated Learning on Non-IID Graphs via Structural Knowledge Sharing},
-author={Tan, Yue and Liu, Yixin and Long, Guodong and Jiang, Jing and Lu, Qinghua and Zhang, Chengqi},
-booktitle={AAAI},
-year={2023}
+@inproceedings{tan2023federated,
+  title={Federated Learning on Non-IID Graphs via Structural Knowledge Sharing},
+  author={Tan, Yue and Liu, Yixin and Long, Guodong and Jiang, Jing and Lu, Qinghua and Zhang, Chengqi},
+  booktitle={AAAI},
+  year={2023}
 }
 ```

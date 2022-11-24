@@ -1,5 +1,5 @@
 # FedStar
-Implementation of the paper accepted by AAAI 2023: Federated Learning on Non-IID Graphs via Structural Knowledge Sharing.
+Implementation of the paper accepted by AAAI 2023: [Federated Learning on Non-IID Graphs via Structural Knowledge Sharing](https://arxiv.org/pdf/2211.13009.pdf).
 
 ## Data Preparation
 * Download the [TUDataset](https://chrsmrrs.github.io/datasets/docs/datasets/) manually and put them under ```./Data/``` directory.
